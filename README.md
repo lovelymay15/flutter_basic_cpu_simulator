@@ -1,6 +1,6 @@
 # Basic CPU Simulator
 
-A simple CPU–Memory–Instruction Set simulator that demonstrates how a computer executes instructions through the **Fetch–Decode–Execute cycle**. The system provides an interactive graphical interface that allows users to visualize how data moves between registers and memory while performing basic CPU operations.
+A simple CPU–Memory–Instruction Set simulator that demonstrates how a computer executes instructions through the Fetch–Decode–Execute cycle. The system provides an interactive graphical interface that allows users to visualize how data moves between registers and memory while performing basic CPU operations.
 
 ---
 
