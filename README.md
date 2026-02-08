@@ -1,6 +1,6 @@
 # Basic CPU Simulator
 
-A simple **CPU–Memory–Instruction Set simulator** that demonstrates how a computer executes instructions through the **Fetch–Decode–Execute cycle**. The system provides an interactive graphical interface that allows users to visualize how data moves between registers and memory while performing basic CPU operations.
+A simple CPU–Memory–Instruction Set simulator that demonstrates how a computer executes instructions through the **Fetch–Decode–Execute cycle**. The system provides an interactive graphical interface that allows users to visualize how data moves between registers and memory while performing basic CPU operations.
 
 ---
 
@@ -20,7 +20,7 @@ A simple **CPU–Memory–Instruction Set simulator** that demonstrates how a co
 
 ## Purpose
 
-This project helps illustrate fundamental **Computer Architecture and Organization** concepts, including:
+This project helps illustrate fundamental Computer Architecture and Organization concepts, including:
 
 - Register and memory interaction
 - Instruction execution
@@ -29,4 +29,4 @@ This project helps illustrate fundamental **Computer Architecture and Organizati
 
 ---
 
-\* Developed as a final project for the **Computer Architecture and Organization (CAO) course, 2024**.
+\* Developed as a final project for the Computer Architecture and Organization (CAO) course, 2024.
